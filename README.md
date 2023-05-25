@@ -6,7 +6,7 @@
 Всегда рад пообщаться и забубенить общий проект :D
 
 [![Dorialean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorialean&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorialean&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorialean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Dorialean's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dorialean&theme=synthwave)](https://github.com/KnlnKS/leetcode-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dorialean&theme=synthwave)](https://git.io/streak-stats)
 
