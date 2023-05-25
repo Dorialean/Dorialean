@@ -11,5 +11,5 @@
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorialean&theme=synthwave" alt="Dorialean's GitHub stats"/>
 </div>
 
-(╯✧▽✧)╯ Слава опенсорсу 
+<p align="center">(╯✧▽✧)╯ Слава опенсорсу</p> 
 
