@@ -1,4 +1,11 @@
-### Hi there 👋
+### Всем привет 👋
+
+Делаю разные web-сайты, пишу web-crawlerы. Стараюсь на благо информационного пространства.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorialean)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dorialean&theme=synthwave)](https://git.io/streak-stats)
+
+Я в соц.сетях:
 
 <!--
 **Dorialean/Dorialean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
